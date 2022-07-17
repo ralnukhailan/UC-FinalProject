@@ -1,0 +1,49 @@
+#header-line{
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;    
+}
+#movie-name{
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 40px;
+    background-color: #171717;
+}
+body{
+    background-color: black;
+    align-items: center;
+}
+#home{
+    width: 70px;
+    height: 70px;
+}
+#video{
+    width: 600px;
+    height: 400px;
+}
+#information{
+    margin: 50px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #171717;
+}
+#title{
+    font-size: 20px;
+    color: red;
+}
+#info{
+    font-size: 18px;
+    color: white;
+}
+#book{
+    color: white;
+    background-color: rgb(130, 10, 10);
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+}
